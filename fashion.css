@@ -23,7 +23,7 @@ header{
     /* border: 2px solid rgb(0, 0, 0); */
     height: 50px;
     width: 230px;
-    background-image:url(/download\ \(1\).webp);
+    background-image:url(download\ \(1\).webp);
     background-repeat: no-repeat;
     background-position: center;
 
@@ -113,7 +113,7 @@ section{
 #limg{
     width: 50%;
     /* margin: 5px; */
-    background-image: url(/category-1.jpg.webp);
+    background-image: url(category-1.jpg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -140,26 +140,26 @@ section{
     
 }
 #rb1{
-background-image: url(/category-2.jpg.webp);
+background-image: url(category-2.jpg.webp);
 background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 
 }
 #rb2{
-    background-image: url(/category-3.jpg.webp);
+    background-image: url(category-3.jpg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 #rb3{
-    background-image: url(/category-4.jpg.webp);
+    background-image: url(category-4.jpg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 #rb4{
-    background-image: url(/category-5.jpg.webp);
+    background-image: url(category-5.jpg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
